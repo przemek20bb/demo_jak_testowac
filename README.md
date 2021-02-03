@@ -10,3 +10,6 @@ Project for getting to know Git with support software
 - Pycharm v2019
 - Python v3.7
 - Windows 10 Pro
+
+##External Platforms
+[Github](https://github.com/) - repository hosting
