@@ -9,4 +9,4 @@ Project for getting to know Git with support software
 - Git v2.20
 - Pycharm v2019
 - Python v3.7
-- Windows v10 Pro
+- Windows 10 Pro
